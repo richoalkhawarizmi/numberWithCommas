@@ -1,5 +1,5 @@
 {
-  "name": "numberwithcommas",
+  "name": "reactnumberwithcommas",
   "version": "1.0.0",
   "description": "-",
   "main": "index.js",
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/richoalkhawarizmi/numberWithCommas/issues"
   },
-  "homepage": "https://github.com/richoalkhawarizmi/numberWithCommas#readme"
+  "homepage": "https://github.com/richoalkhawarizmi/numberWithCommas#readme",
+  "dependencies": {}
 }
