@@ -1,0 +1,22 @@
+{
+  "name": "numberwithcommas",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richoalkhawarizmi/numberWithCommas.git"
+  },
+  "keywords": [
+    "numberwithcommas"
+  ],
+  "author": "Richo Alkhawarizmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richoalkhawarizmi/numberWithCommas/issues"
+  },
+  "homepage": "https://github.com/richoalkhawarizmi/numberWithCommas#readme"
+}
